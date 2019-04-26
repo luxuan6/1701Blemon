@@ -1,0 +1,45 @@
+.hide {
+	display: none;
+}
+
+body,
+html {
+	width: 100%;
+	height: 100%;
+}
+
+.mui-content {
+	width: 100%;
+	height: 100%;
+}
+
+.wrapper {
+	width: 100%;
+	height: 100%;
+}
+
+.wrap {
+	width: 100%;
+	height: 100%;
+}
+
+#header{
+	height: 110px;
+	background: yellow;!important;
+}
+.mui-scroll-wrapper{
+	margin-top: 80px;
+}
+.li{
+	width: 100%;
+}
+.li p{
+	float: left;
+	width: 50%;
+}
+.plus{
+	color: red;
+}
+.minus{
+	color: #2AC845;
+}
